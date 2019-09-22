@@ -1,0 +1,6 @@
+os
+click
+tarfile
+requests
+ZipFile
+ConfigParser
